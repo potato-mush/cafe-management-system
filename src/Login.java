@@ -158,26 +158,6 @@ public class Login extends JFrame implements ActionListener, MouseListener {
         return user;
     }
 
-
-    @Override
-    public void mousePressed(MouseEvent e) {
-
-    }
-
-    @Override
-    public void mouseReleased(MouseEvent e) {
-
-    }
-
-    @Override
-    public void mouseEntered(MouseEvent e) {
-
-    }
-
-    @Override
-    public void mouseExited(MouseEvent e) {
-
-    }
     public static void main(String[] args) {
 
         new Login().setVisible(true);
